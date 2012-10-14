@@ -6,9 +6,14 @@ gem 'rails', '3.2.8'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
+gem 'bootstrap-sass', '2.0.4'
 
 group :development, :test do
 	gem 'rspec-rails', '2.11.0'
+end
+
+group :test do
+  gem 'capybara', '1.1.2'
 end
 
 # Gems used only for assets and not required

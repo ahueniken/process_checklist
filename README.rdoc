@@ -1,6 +1,6 @@
 This is a sample app made by Adam Hueniken.
 
-It is for a process checklist. 
+It is for a process checklist, made at Angelhack as an exercise to learn Ruby on Rails. 
 
 It is free to use by anyone, anywhere.
 
